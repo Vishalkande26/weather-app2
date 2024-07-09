@@ -1,4 +1,4 @@
-// Replace with your OpenWeatherMap API key
+
 const apiKey = "1bfadefe1c90ece72ccf96c5cda70e39";
 
 async function getWeather() {
