@@ -1,4 +1,4 @@
 this is weather app. 
-used html, css and js..
+used html, css and js.
 
 
