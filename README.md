@@ -1,4 +1,4 @@
-This is weather app. Using HTML, 
+This is weather app. Using HTML, CSS
 
 
 
