@@ -1,4 +1,4 @@
-This is weather app. Using HTML, CSS, JS. Interactive. . 
+This is weather app. Using HTML, CSS, JS. Interactive.
 
 
 
